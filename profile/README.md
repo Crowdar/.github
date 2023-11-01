@@ -1,4 +1,4 @@
-| :warning:  Los repositorios relacionados con Lippia Framework y Lippia Test Manager han sido relocalizados en la organización [Lippia en Github](https://github.com/lippia-io)   |
+| :warning:  Los repositorios relacionados con Lippia Framework y Lippia Test Manager serán relocalizados en la organización [Lippia en Github](https://github.com/lippia-io)   |
 |-----------------------------------------|
 
 ![Crowdar Logo](https://assets-global.website-files.com/64ad4eccd9cedda6064e0cef/651c60d24076588903d0c034_logo_crowdar.png)
