@@ -5,6 +5,7 @@
 
 # Bienvenido a Crowdar
 
+[English version](https://github.com/Crowdar/README-EN.md)
 
 ## Sobre Nosotros
 
