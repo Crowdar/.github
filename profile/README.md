@@ -9,7 +9,7 @@
 
 ## Sobre Nosotros
 
-Crowdar es una organización apasionada por la calidad del software y la excelencia en prácticas DevOps. Nuestra misión es impulsar el éxito de nuestros clientes a través de la implementación de soluciones de vanguardia que garantizan la calidad y eficiencia de sus aplicaciones.
+Crowdar es una organización apasionada por la calidad del software y la excelencia en prácticas DevOps. Nuestra misión es impulsar el éxito de nuestros clientes a través de la implementación de soluciones de avanzada que garantizan la calidad y eficiencia de sus aplicaciones.
 
 En Crowdar, combinamos la experiencia técnica con un enfoque en la colaboración y la automatización para ofrecer servicios de vanguardia en el ámbito de la calidad del software y DevOps. Nuestro equipo de expertos se dedica a ayudar a las empresas a acelerar el tiempo de entrega, reducir errores y asegurar la satisfacción del usuario.
 
@@ -61,7 +61,7 @@ En Crowdar, valoramos la colaboración y el intercambio de conocimientos. Únete
 - Sitio web: [crowdar.com.ar](https://crowdar.com.ar)
 - Correo electrónico: info@crowdar.com.ar
 - LinkedIn: [Crowdar](https://www.linkedin.com/company/crowdar/)
-- Twitter: [@CrowdarGlobal](https://twitter.com/CrowdarGlobal)
-- Facebook: [Crowdar](https://www.facebook.com/CrowdarGlobal)
+- Twitter: [@crowdarinfo](https://twitter.com/crowdarinfo)
+- Medium: [Crowdar](https://medium.com/@crowdar)
 
 ¡Gracias por visitar nuestro perfil de organización en GitHub! Esperamos colaborar contigo para alcanzar la excelencia en calidad de software y DevOps.
