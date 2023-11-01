@@ -1,4 +1,3 @@
-
 | :warning:  Los repositorios relacionados con Lippia Framework y Lippia Test Manager han sido relocalizados en la organización [Lippia en Github](https://github.com/lippia-io)   |
 |-----------------------------------------|
 
